@@ -1,0 +1,40 @@
+Make a general research about how Machine Learning service providers (DRAG & DROP ONLY) works (how the architecture looks like)
+Platforms:
+Databricks
+Vertex AI
+SageMaker
+AzureML(Done)
+
+
+1. CHECK EACH PART OF THEIR SOFTWARE 
+2. Check what it does in detail
+3. compare with another software's parts
+
+//
+Check Architecture for:
+Sagemaker
+Apache Spark
+Snowflake
+-----02/12/2022------
+The pipeline component, that is, a component that takes data, processes it, and produces and packages an ML model.
+- How does the pipeline component takes and sends data (How pipelines work)
+
+
+https://scholar.google.nl/scholar?q=machine+learning+pipelines+explained&hl=bg&as_sdt=0&as_vis=1&oi=scholart
+https://dl.acm.org/doi/abs/10.1145/3329486.3329489
+
+https://dl.acm.org/topic/ccs2012/10002951?ContentGroupKey=10.1145%2F3329486&expand=all
+
+//05/12/2022
+Found a guide to build a ML pipeline.
+Build GUI on Angular.
+How to connect a built ML pipeline to a Drag and drop interface? What Python libraries are required? What else is required?
+
+
+//
+2. Cost model for all 3
+
+3. check if database can be run on amazon/google/microsoft cloud platform and for ML framework and Python
+4. Check if docker/kubernates is supporteb by amazon/google/microsoft
+9. compatability back-end stack with 3 cloud providers
+10. Margin on running cloud for data bricks and snowflake on amazon/google/microsoft.
