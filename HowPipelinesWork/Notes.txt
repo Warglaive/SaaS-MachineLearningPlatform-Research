@@ -35,6 +35,6 @@ How to connect a built ML pipeline to a Drag and drop interface? What Python lib
 2. Cost model for all 3
 
 3. check if database can be run on amazon/google/microsoft cloud platform and for ML framework and Python
-4. Check if docker/kubernates is supporteb by amazon/google/microsoft
+4. Check if docker/kubernates is supported by amazon/google/microsoft
 9. compatability back-end stack with 3 cloud providers
 10. Margin on running cloud for data bricks and snowflake on amazon/google/microsoft.
