@@ -38,3 +38,6 @@ How to connect a built ML pipeline to a Drag and drop interface? What Python lib
 4. Check if docker/kubernates is supported by amazon/google/microsoft
 9. compatability back-end stack with 3 cloud providers
 10. Margin on running cloud for data bricks and snowflake on amazon/google/microsoft.
+
+COnsolidate into detail.
+ICT architecture more detailed.
