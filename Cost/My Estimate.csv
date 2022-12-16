@@ -1,0 +1,15 @@
+﻿Estimate summary
+Upfront cost,Monthly cost,Total 12 months cost,Currency
+26.2144,658.6899999999999,7930.49,USD
+,,* Includes upfront cost
+
+
+Detailed Estimate
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,Europe (Ireland),,S3 Standard,26.2144,657.79,7919.69,USD,"S3 Standard storage (5 TB per month), S3 Standard Average Object Size (1 MB)"
+My Estimate,Europe (Ireland),,Data Transfer,0,0.9,10.80,USD,"DT Inbound: Internet (10 GB per month), DT Outbound: Internet (10 GB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."

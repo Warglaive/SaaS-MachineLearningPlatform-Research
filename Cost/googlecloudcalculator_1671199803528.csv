@@ -1,0 +1,14 @@
+name,quantity,region,service_id,sku,product_description,"unit_price, USD","total_price, USD"
+Standard Storage Netherlands,5120,europe-west4,95FF-2EF5-5EA1,89D8-0CF9-9F2E,CP-BIGSTORE-STANDARD,0.02,102.4
+Multi-Region Standard Class A Operations,100000000,europe-west4,95FF-2EF5-5EA1,9ADA-9AED-1B24,CP-BIGSTORE-STANDARD,0.005,500
+Multi-Region Standard Class B Operations,100000000,europe-west4,95FF-2EF5-5EA1,8AE7-5BBD-8F38,CP-BIGSTORE-STANDARD,0.004,40
+Networking Traffic Egress GCP (Combined),1,,95FF-2EF5-5EA1,Look up for SKU https://cloud.google.com/skus/?currency=USD&filter=95FF-2EF5-5EA1,,0.1,0.1
+,,,,,,,
+,,,,,,Total Price:,642.5
+,,,,,,* Sustained use discount (SUD) is not included. You may need to apply discounts separately for each SKU,
+,,,,,,,
+"Prices are in US dollars, effective date is 2022-12-16T14:10:03.528Z.",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/products/calculator/#id=0318dc1c-8e10-43f8-b321-43659bd287ad,,,,,,
