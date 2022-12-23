@@ -1,0 +1,2 @@
+get simple case average cost and calculate the margin of the different providers 
+can infludDb run on GCE
